@@ -1,6 +1,7 @@
 {
   "name": "magikcraft_npm_mock_package",
-  "version": "1.0.1",
+  "repository": "https://github.com/Magikcraft/magikcraft_npm_mock_package",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {

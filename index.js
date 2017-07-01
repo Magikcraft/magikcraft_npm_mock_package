@@ -1,0 +1,1 @@
+console.log('magikcraft_npm_mock_package');
